@@ -1,0 +1,17 @@
+{
+
+    "cars": [
+        {
+            "name": "toyota",
+            "model": "corolla"
+        },
+        {
+            "name": "BMW",
+            "model": "X5"
+        },
+        {
+            "name": "Mazda",
+            "model": "Rx7"
+        }
+    ]
+}
